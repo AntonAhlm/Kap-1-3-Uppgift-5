@@ -1,0 +1,13 @@
+volym=int(input("Hur Manga liter har du tankat? "))
+pris=int(input("Pris per liter:"))
+print("+---------------------------------+")
+print("I              Kvitto             I")
+print("I                                 I")
+print("I  Tankad volym:", volym, "liter         I")
+print("I Pris Per Liter:", pris, "kr           I")
+print("I Du betalar:", volym*pris,"kr             I")
+print("I     Tack for besoket och        I")
+print("I     Valkommen ater!             I")
+print("I                                 I")
+print("+---------------------------------+")
+
